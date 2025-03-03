@@ -1,2 +1,2 @@
 # ds-projects
- data science projects
+arya's data science projects 
